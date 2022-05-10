@@ -1,7 +1,9 @@
 #city-form {
   margin-top: 58px;
   margin-bottom: 12px;
-}
-.form-group {
   text-align: center;
+}
+
+#city-input {
+  margin-right: 10px;
 }

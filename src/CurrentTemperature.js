@@ -3,8 +3,7 @@ import "./CurrentTemperature.css";
 export default function CurrentTemperature() {
   return (
     <p className="CurrentTemperature">
-      {" "}
-      31°;
+      31°
       <span className="Units">
         <a href="#" id="celsius-link">
           C|
