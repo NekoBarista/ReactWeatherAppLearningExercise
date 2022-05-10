@@ -1,3 +1,5 @@
+import "./CityName.css";
+
 export default function CityName() {
-  return <div>Kata Beach</div>;
+  return <div className="CityName"> Kata Beach</div>;
 }

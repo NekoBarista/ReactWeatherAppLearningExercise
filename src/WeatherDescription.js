@@ -1,3 +1,5 @@
+import "./WeatherDescription.css";
+
 export default function WeatherDescription() {
-  return <div id="WeatherDescription"> Clear </div>;
+  return <div className="WeatherDescription"> Clear </div>;
 }
