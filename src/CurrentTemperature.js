@@ -5,12 +5,12 @@ export default function CurrentTemperature() {
     <p className="CurrentTemperature">
       31°
       <span className="Units">
-        <a href="#" id="celsius-link">
+        <a href="/" id="celsius-link">
           C|
         </a>
 
         <span className="Units">
-          <a href="#" id="farenheit-link">
+          <a href="/" id="farenheit-link">
             F
           </a>
         </span>
