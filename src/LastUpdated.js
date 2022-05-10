@@ -1,3 +1,4 @@
+import React from "react";
 import "./LastUpdated.css";
 export default function LastUpdated() {
   return (

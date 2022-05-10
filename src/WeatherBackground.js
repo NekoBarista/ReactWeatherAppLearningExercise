@@ -1,3 +1,4 @@
+import React from "react";
 import CityName from "./CityName";
 import LastUpdated from "./LastUpdated";
 import WeatherImage from "./WeatherImage";

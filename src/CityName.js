@@ -1,3 +1,4 @@
+import React from "react";
 import "./CityName.css";
 
 export default function CityName() {

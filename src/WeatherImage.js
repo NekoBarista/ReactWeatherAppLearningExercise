@@ -1,3 +1,4 @@
+import React from "react";
 import "./WeatherImage.css";
 
 export default function WeatherImage() {
